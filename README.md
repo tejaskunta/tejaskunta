@@ -25,18 +25,41 @@
 
 ### 🧰 Tech stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,react,nextjs,nodejs,express&perline=10" alt="Languages and frameworks" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,flask,maven,git,github,docker,linux,aws,bash&perline=10" alt="Databases and tools" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="140"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=java,cpp,python,js" alt="Java, C++, Python, JavaScript" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,react" alt="HTML, CSS, React" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js, Express" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,postgres" alt="MongoDB, PostgreSQL" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools & cloud</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,bash" alt="Git, GitHub, Docker, Linux, AWS, Bash" /></td>
+  </tr>
+</table>
 
 ### 🚀 Featured work
 
-| | Project | What it is | Stack |
-|:-:|---|---|---|
-| 💬 | **[Ayasa](https://github.com/tejaskunta/Ayasa)** · [live](https://ayasa-client.vercel.app) | Mental-wellbeing check-in app that estimates stress and emotion from text and shows trends over time *(team project)* | React · Express · MongoDB · FastAPI |
-| 🦺 | **[AnvayaX](https://github.com/tejaskunta/AnvayaX)** | NLP engine that flags serious-injury precursors in industrial safety reports *(Smart India Hackathon 2026, team)* | Next.js · TypeScript · FastAPI |
-| 🔐 | **[SecurAI](https://github.com/tejaskunta/SecurAI)** | Middleware that detects and redacts personal data before a prompt reaches an LLM *(Codenovate 2.0, team)* | React · FastAPI · Presidio |
+| | Project | What it is |
+|:-:|---|---|
+| 💬 | **[Ayasa](https://github.com/tejaskunta/Ayasa)**<br/>[![Live demo](https://img.shields.io/badge/Live_demo-0f172a?style=flat-square&logo=vercel&logoColor=white)](https://ayasa-client.vercel.app) | Full-stack MERN app for mental-wellbeing check-ins: estimates stress and emotion from what you write and charts trends over time<br/><sub>Team project</sub> |
+| 🦺 | **[AnvayaX](https://github.com/tejaskunta/AnvayaX)** | NLP engine that flags serious-injury precursors in industrial safety reports<br/><sub>Smart India Hackathon 2026 · team</sub> |
+| 🔐 | **[SecurAI](https://github.com/tejaskunta/SecurAI)** | Middleware that detects and redacts personal data before a prompt reaches an LLM<br/><sub>Codenovate 2.0 · team</sub> |
+
+### 📈 Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tejaskunta&bg_color=0d1117&color=38bdf8&line=38bdf8&point=e2e8f0&area=true&area_color=38bdf8&hide_border=true&radius=8&custom_title=Contribution%20activity" width="100%" alt="Contribution activity graph" />
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%" alt="" />
